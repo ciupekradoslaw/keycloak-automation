@@ -1,0 +1,5 @@
+services:
+  - name: order-service
+    keycloak:
+      enabled: true
+      clientId: order-service
