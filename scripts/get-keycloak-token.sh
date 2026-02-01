@@ -1,8 +1,8 @@
 #!/bin/bash
 
 KEYCLOAK_URL="http://localhost:8080"
-REALM="demo"
-USERNAME="demo"
+REALM="master"
+USERNAME="admin"
 PASSWORD="password"
 CLIENT_ID="admin-cli"
 
